@@ -1,0 +1,4 @@
+#Fri May 17 09:05:32 CST 2019
+base.0=E\:\\Users\\Administrator\\AndroidStudioProjects\\Studytest18newscourse4vipchart2kaoyanClient\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
